@@ -1,3 +1,3 @@
-# Hi. I make things.
+# wibbuffey
 
-Join me on my neverending quest to make a thing for everything.
+weird programmer person
